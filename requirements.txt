@@ -1,5 +1,6 @@
-streamlit
-llama_index
+fastcore
+python-fasthtml
+uvicorn
+requests
+Pillow
 python-dotenv
-llama-index-llms-groq
-pdfplumber
